@@ -3,11 +3,12 @@
  * 
  * 
  * This code was written specifically for a CodeWars kata, and is different than the code
- * we worked through in class because it is designed for a different purpose. It shows
- * how there is not one right way to break things into classes/objects (or functions)
- * it depends on what your goals are and what you need it to do
+ * we worked through in class because it is designed for a different purpose. 
+ * It shows that there is not one right way to break things into classes/objects (or functions)
+ * it depends on what your goals are and what you need it to do!
  * 
- * It is just a solution to this CodeWars kata that I made using classes for fun :)
+ * Also, this isn't doctrine on how to solve this problem, 
+ * it's just a solution to this CodeWars kata that I made, using classes, for fun :)
  * https://www.codewars.com/kata/58905bfa1decb981da00009e
  * 
  * 

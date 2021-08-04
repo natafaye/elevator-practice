@@ -1,7 +1,7 @@
 
 let building1, building2, building3, elevator1, elevator2, elevator3;
 
-/*** NOTE: This is not mocha/chai code, this is codewars version of a testing library, based on mocha ***/
+/*** NOTE: This is not using Mocha/Chai, this is using CodeWars' testing library, based on Mocha ***/
 
 // A function for creating the buildings before each test
 function createBuildings() {

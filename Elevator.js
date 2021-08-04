@@ -2,7 +2,7 @@
 /* 
  *
  * This is just a ROUGH IDEA of how you might write an elevator class, depending on your goals 
- * This code will not run correctly as-is
+ * This code will not run correctly as-is!
  * 
  */
 

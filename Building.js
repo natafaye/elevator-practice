@@ -2,13 +2,12 @@
 /* 
  *
  * This is just a ROUGH IDEA of how you might write a building class, depending on your goals 
- * This code will not run correctly as-is
+ * This code will not run correctly as-is!
  * 
  */
 
 class Building {
-    constructor(numFloors, elevator) {
-        this.elevator = elevator;
+    constructor(numFloors) {
         this.floors = [];
         // Loop numFloors times, and add a Floor object to the array of floors
     }
